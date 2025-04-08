@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-6+(gp%m)f(j^0ku_u!&7xonx2j0e!t!)%=ckx=y8zsz=ir)mzf
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['bookish-dollop-vrxg64wgjw5f6g7x-8000.app.github.dev', 'localhost']
 
 
 # Application definition
